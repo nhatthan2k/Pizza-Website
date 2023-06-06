@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-tutorial-project/static/css/main.241bc741.css",
+    "main.js": "/react-tutorial-project/static/js/main.6a88501b.js",
+    "static/js/787.a4b95a16.chunk.js": "/react-tutorial-project/static/js/787.a4b95a16.chunk.js",
+    "static/media/pizzaLeft.jpg": "/react-tutorial-project/static/media/pizzaLeft.24b07891fef1c8dae848.jpg",
+    "static/media/vegan.jpg": "/react-tutorial-project/static/media/vegan.52cbfe9e6f8d75e18f8b.jpg",
+    "static/media/pizza.jpeg": "/react-tutorial-project/static/media/pizza.21a1098fa87e28d80f37.jpeg",
+    "static/media/multiplePizzas.jpeg": "/react-tutorial-project/static/media/multiplePizzas.490709e2113d96ca24a1.jpeg",
+    "static/media/pizzaLogo.png": "/react-tutorial-project/static/media/pizzaLogo.fcdc67e6b331cba63735.png",
+    "static/media/expensive.jpg": "/react-tutorial-project/static/media/expensive.6449ceefce083d18dfef.jpg",
+    "static/media/pepperoni.jpg": "/react-tutorial-project/static/media/pepperoni.d173e5db8dacdf1324ed.jpg",
+    "static/media/pineapple.jpg": "/react-tutorial-project/static/media/pineapple.a01ab9be389f0e6bd6ec.jpg",
+    "static/media/margherita.jpg": "/react-tutorial-project/static/media/margherita.683bc9bb07f9ff0d82df.jpg",
+    "static/media/pedrotechspecial.jpg": "/react-tutorial-project/static/media/pedrotechspecial.425951cb0e484775fd4c.jpg",
+    "index.html": "/react-tutorial-project/index.html",
+    "main.241bc741.css.map": "/react-tutorial-project/static/css/main.241bc741.css.map",
+    "main.6a88501b.js.map": "/react-tutorial-project/static/js/main.6a88501b.js.map",
+    "787.a4b95a16.chunk.js.map": "/react-tutorial-project/static/js/787.a4b95a16.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.241bc741.css",
+    "static/js/main.6a88501b.js"
+  ]
+}
